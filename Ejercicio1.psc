@@ -1,4 +1,4 @@
-Algoritmo Ejercicio1 
+Algoritmo Ejercicio1 // Ejercicio de Biennvenida Personalizado
 	
 	Definir Nombre Como Caracter
 	Definir Apellido Como Caracter
